@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cat-12 a second year computer science student.
-- 🌱 I’m currently learning java and python this semester at University.
+- 🌱 I’m currently learning java and python.
 - 💞️ I’m looking to collaborate on any java projects during my University breaks and in any free time.
